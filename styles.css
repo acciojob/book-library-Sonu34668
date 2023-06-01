@@ -14,15 +14,17 @@ body {
 	background-color: #f8f8f8;
 	font-family: sans-serif;
 	align-content: center;
+	padding: 50px 50px;
 }
 
 
 .container {
-	display: flex;
+	display: border-box;
 	background-color: #ffffff;
-/* 	width: 100%;
-	height: 25px; */
+	width: 100%;
+	height: 25px; 
 	justify-content: center;
+	padding: 10px;
 }
 
 
@@ -34,6 +36,6 @@ body {
 	background-color: #2ecc71;
 	width: 100%;
 }
-.img{
-	align-: center;
+.book{
+	padding: 50px;
 }
